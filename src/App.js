@@ -1,8 +1,7 @@
 import React from 'react';
 import Homepage from './components/Homepage.jsx'
 import Startpage from './components/Startpage.jsx';
-import { Route, Routes } from "react-router-dom";
-
+import { Route, Routes } from 'react-router-dom';
 
 
 function App() {
